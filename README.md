@@ -1,0 +1,2 @@
+# RobotUser
+Mouse automover
